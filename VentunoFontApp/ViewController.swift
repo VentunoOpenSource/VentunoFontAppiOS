@@ -30,8 +30,8 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
         let cell = collectionView.dequeueReusableCell(withReuseIdentifier: reuseIdentifier, for: indexPath as IndexPath) as! CustomCollectionViewCell
         
         let text = String(self.items?[indexPath.item] ?? "a")
-        cell.mLabel?.text = text
-        cell.mTitle?.text = text
+        cell.setText(text)
+        
         
         return cell
     }
