@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		F093CFC22283EC5E00BFF3D4 /* ventuno.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F093CFC12283EC5E00BFF3D4 /* ventuno.ttf */; };
+		F093CFC422842E5E00BFF3D4 /* ventuno.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F093CFC322842E5E00BFF3D4 /* ventuno.ttf */; };
 		F0A8C47F224B974100022618 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0A8C47E224B974100022618 /* AppDelegate.swift */; };
 		F0A8C481224B974100022618 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0A8C480224B974100022618 /* ViewController.swift */; };
 		F0A8C484224B974100022618 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F0A8C482224B974100022618 /* Main.storyboard */; };
@@ -17,7 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		F093CFC12283EC5E00BFF3D4 /* ventuno.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = ventuno.ttf; sourceTree = "<group>"; };
+		F093CFC322842E5E00BFF3D4 /* ventuno.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = ventuno.ttf; sourceTree = "<group>"; };
 		F0A8C47B224B974100022618 /* VentunoFontApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = VentunoFontApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F0A8C47E224B974100022618 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F0A8C480224B974100022618 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -73,7 +73,7 @@
 		F0A8C494224B9FB900022618 /* fonts */ = {
 			isa = PBXGroup;
 			children = (
-				F093CFC12283EC5E00BFF3D4 /* ventuno.ttf */,
+				F093CFC322842E5E00BFF3D4 /* ventuno.ttf */,
 			);
 			path = fonts;
 			sourceTree = "<group>";
@@ -138,7 +138,7 @@
 			files = (
 				F0A8C489224B974200022618 /* LaunchScreen.storyboard in Resources */,
 				F0A8C486224B974200022618 /* Assets.xcassets in Resources */,
-				F093CFC22283EC5E00BFF3D4 /* ventuno.ttf in Resources */,
+				F093CFC422842E5E00BFF3D4 /* ventuno.ttf in Resources */,
 				F0A8C484224B974100022618 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
