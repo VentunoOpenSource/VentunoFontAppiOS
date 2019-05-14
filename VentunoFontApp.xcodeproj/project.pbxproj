@@ -10,7 +10,7 @@
 		B1243DD12289859800AE1524 /* fa-regular-400.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B1243DCE2289859700AE1524 /* fa-regular-400.ttf */; };
 		B1243DD22289859800AE1524 /* fa-solid-900.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B1243DCF2289859700AE1524 /* fa-solid-900.ttf */; };
 		B1243DD32289859800AE1524 /* fontawesome-webfont.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B1243DD02289859800AE1524 /* fontawesome-webfont.ttf */; };
-		B1FAC928228A91A000036DA7 /* ventuno_ios.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B1FAC927228A91A000036DA7 /* ventuno_ios.ttf */; };
+		B1FAC92D228AA0E800036DA7 /* ventuno.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B1FAC92C228AA0E700036DA7 /* ventuno.ttf */; };
 		F0A8C47F224B974100022618 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0A8C47E224B974100022618 /* AppDelegate.swift */; };
 		F0A8C481224B974100022618 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0A8C480224B974100022618 /* ViewController.swift */; };
 		F0A8C484224B974100022618 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F0A8C482224B974100022618 /* Main.storyboard */; };
@@ -23,7 +23,7 @@
 		B1243DCE2289859700AE1524 /* fa-regular-400.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "fa-regular-400.ttf"; sourceTree = "<group>"; };
 		B1243DCF2289859700AE1524 /* fa-solid-900.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "fa-solid-900.ttf"; sourceTree = "<group>"; };
 		B1243DD02289859800AE1524 /* fontawesome-webfont.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "fontawesome-webfont.ttf"; sourceTree = "<group>"; };
-		B1FAC927228A91A000036DA7 /* ventuno_ios.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = ventuno_ios.ttf; sourceTree = "<group>"; };
+		B1FAC92C228AA0E700036DA7 /* ventuno.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = ventuno.ttf; sourceTree = "<group>"; };
 		F0A8C47B224B974100022618 /* VentunoFontApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = VentunoFontApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F0A8C47E224B974100022618 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F0A8C480224B974100022618 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -79,7 +79,7 @@
 		F0A8C494224B9FB900022618 /* fonts */ = {
 			isa = PBXGroup;
 			children = (
-				B1FAC927228A91A000036DA7 /* ventuno_ios.ttf */,
+				B1FAC92C228AA0E700036DA7 /* ventuno.ttf */,
 				B1243DCE2289859700AE1524 /* fa-regular-400.ttf */,
 				B1243DCF2289859700AE1524 /* fa-solid-900.ttf */,
 				B1243DD02289859800AE1524 /* fontawesome-webfont.ttf */,
@@ -150,8 +150,8 @@
 				B1243DD32289859800AE1524 /* fontawesome-webfont.ttf in Resources */,
 				F0A8C486224B974200022618 /* Assets.xcassets in Resources */,
 				B1243DD22289859800AE1524 /* fa-solid-900.ttf in Resources */,
-				B1FAC928228A91A000036DA7 /* ventuno_ios.ttf in Resources */,
 				F0A8C484224B974100022618 /* Main.storyboard in Resources */,
+				B1FAC92D228AA0E800036DA7 /* ventuno.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
