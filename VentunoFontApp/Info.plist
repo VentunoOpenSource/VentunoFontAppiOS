@@ -43,7 +43,11 @@
 	</array>
 	<key>UIAppFonts</key>
 	<array>
+		<string>ventuno_ios.ttf</string>
 		<string>ventuno.ttf</string>
+		<string>fa-regular-400.ttf</string>
+		<string>fa-solid-900.ttf</string>
+		<string>fontawesome-webfont.ttf</string>
 	</array>
 </dict>
 </plist>

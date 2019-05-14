@@ -76,3 +76,13 @@ extension ViewController {
     
 }
 
+class AutoAddPaddingButtton : UIButton
+{
+    override var intrinsicContentSize: CGSize {
+        get {
+            let baseSize = super.intrinsicContentSize
+            return CGSize(width: baseSize.width,//ex: padding 20
+                height: baseSize.height)
+        }
+    }
+}
