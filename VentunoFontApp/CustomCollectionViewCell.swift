@@ -40,8 +40,8 @@ class CustomCollectionViewCell: UICollectionViewCell {
         super.awakeFromNib()
         // Initialization code
         
-        let size1:CGFloat = 48;
-        let size2:CGFloat = 64;
+        let size1:CGFloat = 64;
+        let size2:CGFloat = 80;
         
         
         //mLabel64?.font = CustomCollectionViewCell.getFont(.AWESOME_FONT_SOLID, size: 64)
@@ -73,7 +73,7 @@ class CustomCollectionViewCell: UICollectionViewCell {
         mRawTitle?.text = str
         
         mBtnTitle?.setTitle(str, for: .normal)
-    mBtnTitle64?.setTitle(str, for: .normal)
+        mBtnTitle64?.setTitle(str, for: .normal)
        // mBtnTitle64?.setTitle(CustomCollectionViewCell.vf_home, for: .normal)
     }
     

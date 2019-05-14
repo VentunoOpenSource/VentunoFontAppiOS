@@ -42,7 +42,6 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
         print("You selected cell #\(indexPath.item)!")
     }
 
-
 }
 extension ViewController {
     
@@ -68,7 +67,6 @@ extension ViewController {
         print(letters)
         
         return letters
-        
     }
     
     
